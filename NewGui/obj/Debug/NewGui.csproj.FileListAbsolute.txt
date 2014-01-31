@@ -13,3 +13,6 @@ C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\obj\Debug\
 C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\obj\Debug\NewGui.pdb
 C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\bin\Debug\SudokuGame.dll
 C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\bin\Debug\SudokuGame.pdb
+C:\Users\Taphos\Documents\Visual Studio 2012\Projects\Sudoku2semester\NewGui\bin\Debug\NewGui.exe.config
+C:\Users\Taphos\Documents\Visual Studio 2012\Projects\Sudoku2semester\NewGui\obj\Debug\NewGui.exe
+C:\Users\Taphos\Documents\Visual Studio 2012\Projects\Sudoku2semester\NewGui\obj\Debug\NewGui.pdb
