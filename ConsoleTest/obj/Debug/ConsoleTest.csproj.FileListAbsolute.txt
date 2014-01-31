@@ -1,0 +1,8 @@
+c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\ConsoleTest\bin\Debug\ConsoleTest.exe
+c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\ConsoleTest\bin\Debug\ConsoleTest.pdb
+c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\ConsoleTest\obj\Debug\ConsoleTest.exe
+c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\ConsoleTest\obj\Debug\ConsoleTest.pdb
+c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\ConsoleTest\bin\Debug\SudokuGame.dll
+c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\ConsoleTest\bin\Debug\SudokuGame.pdb

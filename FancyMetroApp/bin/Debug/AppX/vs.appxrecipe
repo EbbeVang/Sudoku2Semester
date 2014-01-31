@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EASJ04</Machine>
+    <WindowsUser>ebva</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8abdac72-4cf1-4c49-9298-8b7a359c9c85</PackageIdentityName>
+    <RegisteredManifestChecksum>6C1B9A24C105B6E03D616269E8C61D783D8DC52BA438B946D848A2A6CC8E9679</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8abdac72-4cf1-4c49-9298-8b7a359c9c85_1.0.0.0_neutral__5j6567m2x6eac</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8abdac72-4cf1-4c49-9298-8b7a359c9c85_5j6567m2x6eac!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8abdac72-4cf1-4c49-9298-8b7a359c9c85</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ebva</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\FancyMetroApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-31T07:55:47.924</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\FancyMetroApp\bin\Debug\FancyMetroApp.exe">
+      <PackagePath>FancyMetroApp.exe</PackagePath>
+      <Modified>2014-01-31T07:55:47.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\FancyMetroApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\FancyMetroApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\FancyMetroApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\FancyMetroApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\FancyMetroApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-01-31T07:55:47.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\FancyMetroApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-01-31T07:55:47.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\FancyMetroApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-01-31T07:55:47.742</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

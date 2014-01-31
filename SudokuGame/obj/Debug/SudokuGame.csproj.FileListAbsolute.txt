@@ -1,0 +1,5 @@
+c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\SudokuGame\bin\Debug\SudokuGame.dll
+c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\SudokuGame\bin\Debug\SudokuGame.pdb
+c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\SudokuGame\obj\Debug\SudokuGame.csprojResolveAssemblyReference.cache
+c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\SudokuGame\obj\Debug\SudokuGame.dll
+c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\SudokuGame\obj\Debug\SudokuGame.pdb

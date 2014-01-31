@@ -1,0 +1,15 @@
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\bin\Debug\NewGui.exe.config
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\bin\Debug\NewGui.exe
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\bin\Debug\NewGui.pdb
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\obj\Debug\NewGui.csprojResolveAssemblyReference.cache
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\obj\Debug\MainWindow.baml
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\obj\Debug\MainWindow.g.cs
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\obj\Debug\App.g.cs
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\obj\Debug\NewGui_MarkupCompile.cache
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\obj\Debug\NewGui.g.resources
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\obj\Debug\NewGui.Properties.Resources.resources
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\obj\Debug\NewGui.csproj.GenerateResource.Cache
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\obj\Debug\NewGui.exe
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\obj\Debug\NewGui.pdb
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\bin\Debug\SudokuGame.dll
+C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\bin\Debug\SudokuGame.pdb
