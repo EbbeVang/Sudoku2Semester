@@ -16,3 +16,9 @@ C:\Users\ebva.RHS\Documents\Visual Studio 2012\Projects\Sudoku\NewGui\bin\Debug\
 C:\Users\Taphos\Documents\Visual Studio 2012\Projects\Sudoku2semester\NewGui\bin\Debug\NewGui.exe.config
 C:\Users\Taphos\Documents\Visual Studio 2012\Projects\Sudoku2semester\NewGui\obj\Debug\NewGui.exe
 C:\Users\Taphos\Documents\Visual Studio 2012\Projects\Sudoku2semester\NewGui\obj\Debug\NewGui.pdb
+C:\Users\costantino\Documents\Visual Studio 2013\Sudoku2sem\NewGui\bin\Debug\NewGui.exe.config
+C:\Users\costantino\Documents\Visual Studio 2013\Sudoku2sem\NewGui\obj\Debug\NewGui.exe
+C:\Users\costantino\Documents\Visual Studio 2013\Sudoku2sem\NewGui\obj\Debug\NewGui.pdb
+C:\Users\costantino\Documents\Visual Studio 2013\Projects\Sudoku2sem\NewGui\bin\Debug\NewGui.exe.config
+C:\Users\costantino\Documents\Visual Studio 2013\Projects\Sudoku2sem\NewGui\obj\Debug\NewGui.exe
+C:\Users\costantino\Documents\Visual Studio 2013\Projects\Sudoku2sem\NewGui\obj\Debug\NewGui.pdb

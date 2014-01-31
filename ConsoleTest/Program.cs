@@ -28,6 +28,8 @@ namespace ConsoleTest
                 Console.WriteLine();
             }
 
+          // costa
+
             Console.WriteLine("get[1,0]: " + s.sudoku.GetNumber(1, 0));
 
             Console.WriteLine("testing validation");
