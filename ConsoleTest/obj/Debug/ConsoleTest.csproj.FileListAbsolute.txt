@@ -6,3 +6,6 @@ c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\ConsoleTest\obj\D
 c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\ConsoleTest\obj\Debug\ConsoleTest.pdb
 c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\ConsoleTest\bin\Debug\SudokuGame.dll
 c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\ConsoleTest\bin\Debug\SudokuGame.pdb
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\sudoku2sem\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\sudoku2sem\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\sudoku2sem\ConsoleTest\obj\Debug\ConsoleTest.pdb
