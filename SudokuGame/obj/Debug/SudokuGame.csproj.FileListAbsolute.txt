@@ -3,3 +3,8 @@ c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\SudokuGame\bin\De
 c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\SudokuGame\obj\Debug\SudokuGame.csprojResolveAssemblyReference.cache
 c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\SudokuGame\obj\Debug\SudokuGame.dll
 c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\SudokuGame\obj\Debug\SudokuGame.pdb
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\SudokuGame\bin\Debug\SudokuGame.dll
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\SudokuGame\bin\Debug\SudokuGame.pdb
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\SudokuGame\obj\Debug\SudokuGame.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\SudokuGame\obj\Debug\SudokuGame.dll
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\SudokuGame\obj\Debug\SudokuGame.pdb

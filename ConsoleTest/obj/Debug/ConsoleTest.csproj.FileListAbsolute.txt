@@ -9,3 +9,11 @@ c:\users\ebva.rhs\documents\visual studio 2012\Projects\Sudoku\ConsoleTest\bin\D
 C:\Users\Filip\Documents\Visual Studio 2012\Projects\sudoku2sem\ConsoleTest\bin\Debug\ConsoleTest.exe.config
 C:\Users\Filip\Documents\Visual Studio 2012\Projects\sudoku2sem\ConsoleTest\obj\Debug\ConsoleTest.exe
 C:\Users\Filip\Documents\Visual Studio 2012\Projects\sudoku2sem\ConsoleTest\obj\Debug\ConsoleTest.pdb
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\ConsoleTest\bin\Debug\SudokuGame.dll
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\ConsoleTest\bin\Debug\SudokuGame.pdb
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\ConsoleTest\obj\Debug\ConsoleTest.pdb
