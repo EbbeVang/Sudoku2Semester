@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleTest
 {
+    //changed by filip
     // dear teacher couldn't this be much better?
     class Program
     {
@@ -26,6 +27,8 @@ namespace ConsoleTest
 
                 Console.WriteLine();
             }
+
+          // costa
 
             Console.WriteLine("get[1,0]: " + s.sudoku.GetNumber(1, 0));
 
