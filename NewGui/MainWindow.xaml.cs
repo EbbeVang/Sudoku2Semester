@@ -41,7 +41,7 @@ namespace NewGui
                 for (int j = 0; j < 9; j++)
                 {
                     Button btn = new Button();
-                    btn.Content = _game.sudoku.GetNumber(i, j);
+                    if (_game.sudoku.GetNumber(i, j) !=0) btn.Content = _game.sudoku.GetNumber(i, j);
                     btn.Click += new RoutedEventHandler(this.BtnSudoku_Click);
                     
                     btn.Width = 30;
