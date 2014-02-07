@@ -22,3 +22,18 @@ C:\Users\costantino\Documents\Visual Studio 2013\Sudoku2sem\NewGui\obj\Debug\New
 C:\Users\costantino\Documents\Visual Studio 2013\Projects\Sudoku2sem\NewGui\bin\Debug\NewGui.exe.config
 C:\Users\costantino\Documents\Visual Studio 2013\Projects\Sudoku2sem\NewGui\obj\Debug\NewGui.exe
 C:\Users\costantino\Documents\Visual Studio 2013\Projects\Sudoku2sem\NewGui\obj\Debug\NewGui.pdb
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\bin\Debug\NewGui.exe.config
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\obj\Debug\NewGui.exe
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\obj\Debug\NewGui.pdb
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\bin\Debug\NewGui.exe
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\bin\Debug\NewGui.pdb
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\bin\Debug\SudokuGame.dll
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\bin\Debug\SudokuGame.pdb
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\obj\Debug\NewGui.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\obj\Debug\MainWindow.baml
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\obj\Debug\MainWindow.g.cs
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\obj\Debug\App.g.cs
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\obj\Debug\NewGui_MarkupCompile.cache
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\obj\Debug\NewGui.g.resources
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\obj\Debug\NewGui.Properties.Resources.resources
+C:\Users\Mihai\Documents\Visual Studio 2013\Projects\sudoku1sem(from github)\NewGui\obj\Debug\NewGui.csproj.GenerateResource.Cache
