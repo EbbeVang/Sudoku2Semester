@@ -34,32 +34,34 @@ namespace SudokuGame
             return Numbers[y, x];
         }
 
-        public bool IsInRow(int x, int y, int value)
+        public bool IsInRow(int row, int value)
         {
             for (int i = 0; i < 9; i++)
             {
-                if (Numbers[i, y] ==value) return true;
+                if (Numbers[row, i] ==value) return true;
             }
             return false;
         }
 
-        public bool IsInColummn(int x, int y, int value)
+        public bool IsInColummn(int column, int value)
         {
             for (int i = 0; i < 9; i++)
             {
-                if (Numbers[x, i] == value) return true;
+                if (Numbers[i, column] == value) return true;
+                //else return false;
             }
-            return true;
+            // if none are true
+            return false;
         }
 
         public bool IsInSquare(int x, int y, int value)
         {
+            x *= 3;
+            y *= 3; 
             for (int i = 0; i < 3; i++)
             {
                 for (int j = 0; j < 3; j++)
                 {
-                    x = (int) (3/x);
-                    y = (int) (3/y);
                     if (Numbers[y + i, x + j] == value) return true;
                 }
             }

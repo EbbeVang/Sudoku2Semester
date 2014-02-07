@@ -7,11 +7,12 @@
         <Button x:Name="add1" Content="1" HorizontalAlignment="Left" Margin="480,254,0,0" VerticalAlignment="Top" Width="44" Height="47" Click="Button_Click"/>
         <Button x:Name="add2" Content="2" HorizontalAlignment="Left" Margin="532,254,0,0" VerticalAlignment="Top" Width="44" Height="47" Click="add2_Click"/>
         <Button x:Name="add3" Content="3" HorizontalAlignment="Left" Margin="583,254,0,0" VerticalAlignment="Top" Width="45" Height="47" Click="add3_Click"/>
-        <Button x:Name="add4" Content="4" HorizontalAlignment="Left" Margin="480,309,0,0" VerticalAlignment="Top" Width="44" Height="48"/>
-        <Button x:Name="add5" Content="5" HorizontalAlignment="Left" Margin="532,309,0,0" VerticalAlignment="Top" Width="44" Height="48"/>
-        <Button x:Name="add6" Content="6" HorizontalAlignment="Left" Margin="583,309,0,0" VerticalAlignment="Top" Width="45" Height="48"/>
-        <Button x:Name="add7" Content="7" HorizontalAlignment="Left" Margin="480,365,0,0" VerticalAlignment="Top" Width="44" Height="48"/>
-        <Button x:Name="add8" Content="8" HorizontalAlignment="Left" Margin="532,365,0,0" VerticalAlignment="Top" Width="44" Height="48"/>
-        <Button x:Name="add9" Content="9" HorizontalAlignment="Left" Margin="583,365,0,0" VerticalAlignment="Top" Width="45" Height="48"/>
+        <Button x:Name="add4" Content="4" HorizontalAlignment="Left" Margin="480,309,0,0" VerticalAlignment="Top" Width="44" Height="48" Click="add4_Click"/>
+        <Button x:Name="add5" Content="5" HorizontalAlignment="Left" Margin="532,309,0,0" VerticalAlignment="Top" Width="44" Height="48" Click="add5_Click"/>
+        <Button x:Name="add6" Content="6" HorizontalAlignment="Left" Margin="583,309,0,0" VerticalAlignment="Top" Width="45" Height="48" Click="add6_Click"/>
+        <Button x:Name="add7" Content="7" HorizontalAlignment="Left" Margin="480,365,0,0" VerticalAlignment="Top" Width="44" Height="48" Click="add7_Click"/>
+        <Button x:Name="add8" Content="8" HorizontalAlignment="Left" Margin="532,365,0,0" VerticalAlignment="Top" Width="44" Height="48" Click="add8_Click"/>
+        <Button x:Name="add9" Content="9" HorizontalAlignment="Left" Margin="583,365,0,0" VerticalAlignment="Top" Width="45" Height="48" Click="add9_Click"/>
+        <Button x:Name="BtnValidate" Content="ValidateSudoku" HorizontalAlignment="Left" Margin="503,205,0,0" VerticalAlignment="Top" Width="75" Click="BtnValidate_Click"/>
     </Grid>
 </Window>
